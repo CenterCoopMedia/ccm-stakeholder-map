@@ -2,7 +2,7 @@
 
 An interactive web tool for creating "ally/obstacle maps" and onboarding field guides. Built for the Center for Cooperative Media.
 
-**[Try it live →](https://jamditis.github.io/ccm-stakeholder-map/)**
+**[Try it live →](https://centercoopmedia.github.io/ccm-stakeholder-map/)**
 
 ## Inspiration
 
@@ -68,7 +68,7 @@ Import `.json` files directly. Supports single maps or bulk import of multiple m
 
 ## Workshop games toolkit
 
-**[Browse the games →](https://jamditis.github.io/ccm-stakeholder-map/workshop-games/)**
+**[Browse the games →](https://centercoopmedia.github.io/ccm-stakeholder-map/workshop-games/)**
 
 A set of 7 interactive games for teams working through a strategic plan together. Each game is a standalone HTML page with facilitator instructions, timers, and interactive elements.
 
@@ -98,7 +98,7 @@ No build step required. The app runs entirely in the browser.
 
 ```bash
 # Clone the repo
-git clone https://github.com/jamditis/ccm-stakeholder-map.git
+git clone https://github.com/CenterCoopMedia/ccm-stakeholder-map.git
 cd ccm-stakeholder-map
 
 # Open directly in browser
